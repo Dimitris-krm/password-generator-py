@@ -4,7 +4,7 @@ upperCaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lowerCaseChars = "abcdefghijklmnopqrstuvwxyz"
 numberChars = "0123456789"
 specialChars = "!@#$%^&*()_-+=<>?/{}~|"
-
+#test1
 upper, lower, number, special = False, False, False, False
 
 all = ""
