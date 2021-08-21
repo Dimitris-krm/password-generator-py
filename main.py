@@ -4,9 +4,9 @@ upperCaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lowerCaseChars = "abcdefghijklmnopqrstuvwxyz"
 numberChars = "0123456789"
 specialChars = "!@#$%^&*()_-+=<>?/{}~|"
-#test1
-upper, lower, number, special = False, False, False, False
 
+upper, lower, number, special = False, False, False, False
+#test krm
 all = ""
 
 uppercheck = str(input("Do you want Uppercase Chars in your password? Yes/No "))
